@@ -19,6 +19,7 @@ function handleNewRamenForm(e) {
 
   console.log({
     name: nameValue,
+    restaurant: restaurantValue,
     image: imageValue,
     rating: ratingValue,
     comment: commentValue,
